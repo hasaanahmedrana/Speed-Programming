@@ -7,3 +7,4 @@ This repository contains solutions for various Codeforces problems.
 - [4A - Watermelon](https://codeforces.com/contest/4/problem/A)
 - [1828A - Divisible Array](https://codeforces.com/contest/1828/problem/A)
 - [146A -Lucky Ticket](https://codeforces.com/contest/146/problem/A)
+- [236A- Boy or Girl](https://codeforces.com/contest/236/problem/A)
