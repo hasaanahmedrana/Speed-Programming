@@ -10,3 +10,4 @@ This repository contains solutions for various Codeforces problems.
 - [236A- Boy or Girl](https://codeforces.com/contest/236/problem/A)
 - [231A - Team](https://codeforces.com/contest/231/problem/A)
 - [119A - Epic Game](https://codeforces.com/contest/119/problem/A)
+- [1742 - Increasing](https://codeforces.com/contest/1742/problem/B)
