@@ -13,3 +13,4 @@ This repository contains solutions for various Codeforces problems.
 - [1742B - Increasing](https://codeforces.com/contest/1742/problem/B)
 - [1792A - Two Elevator](https://codeforces.com/contest/1729/problem/A)
 - [1721A - Image](https://codeforces.com/contest/1721/problem/A)
+- [71A - Way Too Long Words](https://codeforces.com/contest/71/problem/A)
