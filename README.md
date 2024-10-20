@@ -12,3 +12,4 @@ This repository contains solutions for various Codeforces problems.
 - [119A - Epic Game](https://codeforces.com/contest/119/problem/A)
 - [1742B - Increasing](https://codeforces.com/contest/1742/problem/B)
 - [1792A - Two Elevator](https://codeforces.com/contest/1729/problem/A)
+- [1721A - Image](https://codeforces.com/contest/1721/problem/A)
