@@ -18,3 +18,4 @@ This repository contains solutions for various Codeforces problems.
 - [1742A - Sum](https://codeforces.com/contest/1742/problem/A)
 - [1304A - Two Rabbits](https://codeforces.com/contest/1304/problem/A)
 - [707A - Brain's Photos](https://codeforces.com/contest/707/problem/A)
+- [1829 - Love Story](https://codeforces.com/contest/1829)
