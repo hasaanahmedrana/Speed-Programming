@@ -17,3 +17,4 @@ This repository contains solutions for various Codeforces problems.
 - [705A - Hulk](https://codeforces.com/contest/705/problem/A)
 - [1742A - Sum](https://codeforces.com/contest/1742/problem/A)
 - [1304A - Two Rabbits](https://codeforces.com/contest/1304/problem/A)
+- [707A - Brain's Photos](https://codeforces.com/contest/707/problem/A)
