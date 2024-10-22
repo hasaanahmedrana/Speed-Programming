@@ -18,4 +18,5 @@ This repository contains solutions for various Codeforces problems.
 - [1742A - Sum](https://codeforces.com/contest/1742/problem/A)
 - [1304A - Two Rabbits](https://codeforces.com/contest/1304/problem/A)
 - [707A - Brain's Photos](https://codeforces.com/contest/707/problem/A)
-- [1829 - Love Story](https://codeforces.com/contest/1829)
+- [1829A - Love Story](https://codeforces.com/contest/1829)
+- [266B - Queue at the School](https://codeforces.com/contest/266/problem/B)
