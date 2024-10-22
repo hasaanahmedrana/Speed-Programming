@@ -21,3 +21,4 @@ This repository contains solutions for various Codeforces problems.
 - [1829A - Love Story](https://codeforces.com/contest/1829)
 - [266B - Queue at the School](https://codeforces.com/contest/266/problem/B)
 - [1825A - LuoTianyi and the Palindrome String](https://codeforces.com/contest/1825/problem/A)
+- [1829B - Blank Space](https://codeforces.com/contest/1829/problem/B)
