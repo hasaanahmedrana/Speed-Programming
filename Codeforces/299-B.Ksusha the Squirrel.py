@@ -1,5 +1,5 @@
 def main():
-    n, k=map(int, input().split())
+    n, k = map(int, input().split())
     road = input()
     rock = 0
     for i in range(n):
