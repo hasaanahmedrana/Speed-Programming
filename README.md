@@ -25,4 +25,4 @@ This repository contains solutions for various Codeforces problems.
 - [1829B - Blank Space](https://codeforces.com/contest/1829/problem/B)
 - [276A - Lunch Rush](https://codeforces.com/contest/276/problem/A)
 - [45A - Codecraft III](https://codeforces.com/contest/45/problem/A)
-- 
+- [1281A - Important Exam](https://codeforces.com/contest/1201/problem/A)
