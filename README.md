@@ -27,3 +27,4 @@ This repository contains solutions for various Codeforces problems.
 - [45A - Codecraft III](https://codeforces.com/contest/45/problem/A)
 - [1281A - Important Exam](https://codeforces.com/contest/1201/problem/A)
 - [44A - Indian Summer](https://codeforces.com/contest/44/problem/A)
+- [653A - Bear and the Tree Balls](https://codeforces.com/contest/653/problem/A)
