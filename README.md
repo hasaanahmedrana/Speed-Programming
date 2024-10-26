@@ -20,6 +20,7 @@ This repository contains solutions for various Codeforces problems.
 - [1304A - Two Rabbits](https://codeforces.com/contest/1304/problem/A)
 - [707A - Brain's Photos](https://codeforces.com/contest/707/problem/A)
 - [1829A - Love Story](https://codeforces.com/contest/1829)
+- [1759B - Lost Permutations](https://codeforces.com/contest/1759/problem/B)
 - [266B - Queue at the School](https://codeforces.com/contest/266/problem/B)
 - [1825A - LuoTianyi and the Palindrome String](https://codeforces.com/contest/1825/problem/A)
 - [1829B - Blank Space](https://codeforces.com/contest/1829/problem/B)
@@ -31,3 +32,4 @@ This repository contains solutions for various Codeforces problems.
 - [1791A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A)
 - [1740B - Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B)
 - [1736A - Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
+- [1840A - Cipher Shift](https://codeforces.com/contest/1840/problem/A)
