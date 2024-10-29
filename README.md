@@ -36,3 +36,4 @@ This repository contains solutions for various Codeforces problems.
 - [148A - Insomnia Cure](https://codeforces.com/contest/148/problem/A)
 - [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)
 - [233A - Perfect Permutation](https://codeforces.com/contest/233/problem/A)
+- [1800A - Is it a Cat](https://codeforces.com/contest/1800/problem/A)
