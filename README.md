@@ -34,3 +34,4 @@ This repository contains solutions for various Codeforces problems.
 - [1736A - Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
 - [1840A - Cipher Shift](https://codeforces.com/contest/1840/problem/A)
 - [148A - Insomnia Cure](https://codeforces.com/contest/148/problem/A)
+- [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)
