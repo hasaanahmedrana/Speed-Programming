@@ -35,3 +35,4 @@ This repository contains solutions for various Codeforces problems.
 - [1840A - Cipher Shift](https://codeforces.com/contest/1840/problem/A)
 - [148A - Insomnia Cure](https://codeforces.com/contest/148/problem/A)
 - [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)
+- [233A - Perfect Permutation](https://codeforces.com/contest/233/problem/A)
