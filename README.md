@@ -37,3 +37,4 @@ This repository contains solutions for various Codeforces problems.
 - [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)
 - [233A - Perfect Permutation](https://codeforces.com/contest/233/problem/A)
 - [1800A - Is it a Cat](https://codeforces.com/contest/1800/problem/A)
+- [1842A -Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A)
