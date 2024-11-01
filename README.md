@@ -34,9 +34,10 @@ This repository contains solutions for various Codeforces problems.
 - [1736A - Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
 - [1840A - Cipher Shift](https://codeforces.com/contest/1840/problem/A)
 - [148A - Insomnia Cure](https://codeforces.com/contest/148/problem/A)
+- [1841A - Game with Board](https://codeforces.com/contest/1841/problem/A)
 - [1772A - A+B](https://codeforces.com/contest/1772/problem/A)
 - [1772B - Matrix Rotation](https://codeforces.com/contest/1772/problem/B)
-- [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)
+- [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)s
 - [233A - Perfect Permutation](https://codeforces.com/contest/233/problem/A)
 - [1800A - Is it a Cat](https://codeforces.com/contest/1800/problem/A)
 - [1842A -Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A)
