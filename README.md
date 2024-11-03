@@ -43,3 +43,4 @@ This repository contains solutions for various Codeforces problems.
 - [1842A -Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A)
 - [1634A - Reverse and Concatenate](https://codeforces.com/contest/1634/problem/A)
 - [1729B - Decode Strings](https://codeforces.com/contest/1729/problem/B)
+- [688B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B)

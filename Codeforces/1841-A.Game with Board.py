@@ -5,6 +5,7 @@ def who_wins():
         return "Bob"
     else:
         return "Alice"
+
 t = int(input())
 for i in range(t):
     print(who_wins())
