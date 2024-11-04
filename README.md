@@ -31,6 +31,7 @@ This repository contains solutions for various Codeforces problems.
 - [653A - Bear and the Tree Balls](https://codeforces.com/contest/653/problem/A)
 - [1791A - Codeforces Checking](https://codeforces.com/contest/1791/problem/A)
 - [1740B - Jumbo Extra Cheese 2](https://codeforces.com/contest/1740/problem/B)
+- [486A - Calculating Function](https://codeforces.com/contest/486/problem/A)
 - [50A - Dominio Piling](https://codeforces.com/contest/50/problem/A)
 - [1736A - Make A Equal to B](https://codeforces.com/contest/1736/problem/A)
 - [1840A - Cipher Shift](https://codeforces.com/contest/1840/problem/A)
