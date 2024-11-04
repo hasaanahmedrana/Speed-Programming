@@ -45,3 +45,4 @@ This repository contains solutions for various Codeforces problems.
 - [1729B - Decode Strings](https://codeforces.com/contest/1729/problem/B)
 - [688B - Lovely Palindromes](https://codeforces.com/contest/688/problem/B)
 - [688A - Opponents](https://codeforces.com/contest/688/problem/A)
+- [386A - Second-Price Auction](https://codeforces.com/contest/386/problem/A)
