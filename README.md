@@ -37,7 +37,8 @@ This repository contains solutions for various Codeforces problems.
 - [1841A - Game with Board](https://codeforces.com/contest/1841/problem/A)
 - [1772A - A+B](https://codeforces.com/contest/1772/problem/A)
 - [1772B - Matrix Rotation](https://codeforces.com/contest/1772/problem/B)
-- [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)s
+- [1754A - Technical Support](https://codeforces.com/contest/1754/problem/A)
+- [263A - Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 - [233A - Perfect Permutation](https://codeforces.com/contest/233/problem/A)
 - [1800A - Is it a Cat](https://codeforces.com/contest/1800/problem/A)
 - [1842A -Tenzing and Tsondu](https://codeforces.com/contest/1842/problem/A)
