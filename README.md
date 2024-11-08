@@ -5,6 +5,7 @@ This repository contains solutions for various Codeforces problems.
 ## Problems:
 
 - [4A - Watermelon](https://codeforces.com/contest/4/problem/A)
+- [1351B - Square?](https://codeforces.com/contest/1351/problem/B)
 - [1828A - Divisible Array](https://codeforces.com/contest/1828/problem/A)
 - [146A - Lucky Ticket](https://codeforces.com/contest/146/problem/A)
 - [299B - Ksusha the Squirrel](https://codeforces.com/contest/299/problem/B)
