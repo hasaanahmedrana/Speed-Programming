@@ -17,6 +17,7 @@ This repository contains solutions for various Codeforces problems.
 - [1792A - Two Elevator](https://codeforces.com/contest/1729/problem/A)
 - [1721A - Image](https://codeforces.com/contest/1721/problem/A)
 - [71A - Way Too Long Words](https://codeforces.com/contest/71/problem/A)
+- [731B - Coupons And Discounts](https://codeforces.com/contest/731/problem/B)
 - [1985A - Creating Words](https://codeforces.com/contest/1985/problem/A)
 - [705A - Hulk](https://codeforces.com/contest/705/problem/A)
 - [1742A - Sum](https://codeforces.com/contest/1742/problem/A)
