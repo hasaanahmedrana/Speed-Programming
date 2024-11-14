@@ -58,3 +58,4 @@ This repository contains solutions for various Codeforces problems.
 - [688A - Opponents](https://codeforces.com/contest/688/problem/A)
 - [386A - Second-Price Auction](https://codeforces.com/contest/386/problem/A)
 - [1999A - A+B Again?](https://codeforces.com/contest/1999/problem/A)
+- [1926A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A)
