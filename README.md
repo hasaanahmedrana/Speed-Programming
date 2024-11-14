@@ -24,6 +24,7 @@ This repository contains solutions for various Codeforces problems.
 - [705A - Hulk](https://codeforces.com/contest/705/problem/A)
 - [1742A - Sum](https://codeforces.com/contest/1742/problem/A)
 - [1304A - Two Rabbits](https://codeforces.com/contest/1304/problem/A)
+- [1950C - Clock Conversion](https://codeforces.com/contest/1950/problem/C)
 - [707A - Brain's Photos](https://codeforces.com/contest/707/problem/A)
 - [1829A - Love Story](https://codeforces.com/contest/1829)
 - [1759B - Lost Permutations](https://codeforces.com/contest/1759/problem/B)
