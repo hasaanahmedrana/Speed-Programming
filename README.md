@@ -64,3 +64,4 @@ This repository contains solutions for various Codeforces problems.
 - [1926A - Vlad and the Best of Five](https://codeforces.com/contest/1926/problem/A)
 - [1950A - Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A)
 - [1950B - Upscaling](https://codeforces.com/contest/1950/problem/B)
+- [1932A - Thorns and Coins?](https://codeforces.com/contest/1932/problem/A)
