@@ -65,3 +65,4 @@ This repository contains solutions for various Codeforces problems.
 - [1950A - Stair, Peak, or Neither?](https://codeforces.com/contest/1950/problem/A)
 - [1950B - Upscaling](https://codeforces.com/contest/1950/problem/B)
 - [1932A - Thorns and Coins?](https://codeforces.com/contest/1932/problem/A)
+- [1930A - Maximize the Score](https://codeforces.com/contest/1930/problem/A)
