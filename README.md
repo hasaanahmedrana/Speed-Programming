@@ -13,6 +13,7 @@ This repository contains solutions for various Codeforces problems.
 - [236A- Boy or Girl](https://codeforces.com/contest/236/problem/A)
 - [231A - Team](https://codeforces.com/contest/231/problem/A)
 - [43A - Football](https://codeforces.com/contest/43/problem/A)
+- [1985C - Good Prefixes](https://codeforces.com/contest/1985/problem/C)
 - [119A - Epic Game](https://codeforces.com/contest/119/problem/A)
 - [1742B - Increasing](https://codeforces.com/contest/1742/problem/B)
 - [1792A - Two Elevator](https://codeforces.com/contest/1729/problem/A)
