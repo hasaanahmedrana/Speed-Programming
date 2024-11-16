@@ -66,3 +66,4 @@ This repository contains solutions for various Codeforces problems.
 - [1950B - Upscaling](https://codeforces.com/contest/1950/problem/B)
 - [1932A - Thorns and Coins?](https://codeforces.com/contest/1932/problem/A)
 - [1930A - Maximize the Score](https://codeforces.com/contest/1930/problem/A)
+- [1272A - Three Friends](https://codeforces.com/contest/1272/problem/A)
