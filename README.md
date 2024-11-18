@@ -71,3 +71,4 @@ This repository contains solutions for various Codeforces problems.
 - [1373B - 01Game](https://codeforces.com/contest/1373/problem/B)
 - [1272A - Three Friends](https://codeforces.com/contest/1272/problem/A)
 - [1438A - Specific Tastes of Andre](https://codeforces.com/contest/1438/problem/A)
+- [1679A - AvtoBus](https://codeforces.com/contest/1679/problem/A)
