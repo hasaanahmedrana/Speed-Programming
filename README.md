@@ -75,4 +75,4 @@ This repository contains solutions for various Codeforces problems.
 - [1883B - Chemistry](https://codeforces.com/contest/1883/problem/B)
 - [1257A - Two Rival Students](https://codeforces.com/contest/1257/problem/A)
 - [1504A - Déjà Vu](https://codeforces.com/contest/1504/problem/A)
-- 
+- [1834A - Unit Array](https://codeforces.com/contest/1834/problem/A)
