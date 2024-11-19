@@ -72,4 +72,5 @@ This repository contains solutions for various Codeforces problems.
 - [1272A - Three Friends](https://codeforces.com/contest/1272/problem/A)
 - [1438A - Specific Tastes of Andre](https://codeforces.com/contest/1438/problem/A)
 - [1679A - AvtoBus](https://codeforces.com/contest/1679/problem/A)
+- [1883B - Chemistry](https://codeforces.com/contest/1883/problem/B)
 - [1257A - Two Rival Students](https://codeforces.com/contest/1257/problem/A)
