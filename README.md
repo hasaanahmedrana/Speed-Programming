@@ -78,3 +78,4 @@ This repository contains solutions for various Codeforces problems.
 - [2000C - Numeric String Template](https://codeforces.com/problemset/problem/2000/C/)
 - [1834A - Unit Array](https://codeforces.com/contest/1834/problem/A)
 - [1896B - AB Flipping](https://codeforces.com/contest/1896/problem/B)
+- [1896A - Jagged Swaps](https://codeforces.com/contest/1896/problem/A)
