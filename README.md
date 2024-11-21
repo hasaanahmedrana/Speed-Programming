@@ -1,8 +1,13 @@
-# Codeforces Solutions
+# Introduction
 
-This repository contains solutions for various Codeforces problems.
+Welcome to the Speed Programming repository! This collection is dedicated to providing efficient and well-documented solutions to a wide range of competitive programming problems from platforms like Codeforces and LeetCode. Whether you're preparing for a coding competition or looking to improve your problem-solving skills, you'll find valuable resources and insights here.
 
-## Problems:
+[![Codeforces Problems](https://img.shields.io/badge/Codeforces-Problems-blue)](https://codeforces.com/problemset)
+[![LeetCode Problems](https://img.shields.io/badge/LeetCode-Problems-orange)](https://leetcode.com/problemset/all/)
+
+---
+## Codeforces Solutions
+###  Problems:
 
 - [4A - Watermelon](https://codeforces.com/contest/4/problem/A)
 - [1351B - Square?](https://codeforces.com/contest/1351/problem/B)
@@ -80,7 +85,10 @@ This repository contains solutions for various Codeforces problems.
 - [1896B - AB Flipping](https://codeforces.com/contest/1896/problem/B)
 - [1896A - Jagged Swaps](https://codeforces.com/contest/1896/problem/A)
 
-# LeetCode Solutions:
+---
+## LeetCode Solutions:
+### Problems:
+
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
