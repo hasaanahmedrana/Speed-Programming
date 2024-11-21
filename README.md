@@ -1,14 +1,38 @@
-# Introduction
-
-Welcome to the Speed Programming repository! This collection is dedicated to providing efficient and well-documented solutions to a wide range of competitive programming problems from platforms like Codeforces and LeetCode. Whether you're preparing for a coding competition or looking to improve your problem-solving skills, you'll find valuable resources and insights here.
+*Heyy! Welcome to the Competitive Programming Solutions repository! This repository is a comprehensive collection of my solutions to a wide array of competitive programming problems from popular platforms like Codeforces, HackerRank and LeetCode.
+Happy Coding :)*
 
 [![Codeforces Problems](https://img.shields.io/badge/Codeforces-Problems-blue)](https://codeforces.com/problemset)
 [![LeetCode Problems](https://img.shields.io/badge/LeetCode-Problems-orange)](https://leetcode.com/problemset/all/)
+[![HackerRank Problems](https://img.shields.io/badge/HackerRank-Problems-green)](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
+
+# Table Of Contents:
+- [CodeForces Problems](#codeforces-problems)
+- [LeetCode Problems](#leetcode-problems)
+- [How to Use](#how-to-use)
+- [Contribution](#contributing)
 
 ---
-## Codeforces Solutions
-###  Problems:
 
+# How to Use:
+
+1. **Clone the repository:**
+    ```bash
+    git clone https://github.com/hasaanahmedrana/Speed-Programming
+    ```
+2. **Navigate to the project directory:**
+    ```bash
+    cd Speed-Programming
+    ```
+
+# Contributing
+If you'd like to contribute to this repository, feel free to fork it, make your changes, and submit a pull request. Ensure that your contributions follow these guidelines:
+
+- Solutions are well-documented and easy to understand.
+- Code follows clean and consistent coding practices.
+  
+---
+
+# CodeForces Problems:
 - [4A - Watermelon](https://codeforces.com/contest/4/problem/A)
 - [1351B - Square?](https://codeforces.com/contest/1351/problem/B)
 - [1828A - Divisible Array](https://codeforces.com/contest/1828/problem/A)
@@ -86,8 +110,7 @@ Welcome to the Speed Programming repository! This collection is dedicated to pro
 - [1896A - Jagged Swaps](https://codeforces.com/contest/1896/problem/A)
 
 ---
-## LeetCode Solutions:
-### Problems:
+# LeetCode Problems:
 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
