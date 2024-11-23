@@ -1,4 +1,4 @@
-*Heyy! Welcome to the Competitive Programming Solutions repository! This repository is a comprehensive collection of my solutions to a wide array of competitive programming problems from popular platforms like Codeforces, HackerRank and LeetCode.
+*Heyyy! Welcome to the Competitive Programming Solutions repository! This repository is a comprehensive collection of my solutions to a wide array of competitive programming problems from popular platforms like Codeforces, HackerRank and LeetCode.
 Happy Coding :)*
 
 [![Codeforces Problems](https://img.shields.io/badge/Codeforces-Problems-blue)](https://codeforces.com/problemset)
