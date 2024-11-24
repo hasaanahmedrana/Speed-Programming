@@ -111,6 +111,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1988B - Making Majority](https://codeforces.com/contest/1988/problem/B)
 - [1701A - Grass Field](https://codeforces.com/contest/1701/problem/A)
 - [1175A - From Zero To Hero](https://codeforces.com/contest/1175/problem/A)
+- [25B - Phone numbers](https://codeforces.com/contest/25/problem/B)
 - [1919A - Wallet Exchange](https://codeforces.com/contest/1919/problem/A)
 - [1032A- Kitchen Utensils](https://codeforces.com/contest/1032/problem/A)
 - [697A - Pineapple Incident](https://codeforces.com/contest/697/problem/A)
