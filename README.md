@@ -110,6 +110,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1896A - Jagged Swaps](https://codeforces.com/contest/1896/problem/A)
 - [1988B - Making Majority](https://codeforces.com/contest/1988/problem/B)
 - [1701A - Grass Field](https://codeforces.com/contest/1701/problem/A)
+- [1175A - From Zero To Hero](https://codeforces.com/contest/1175/problem/A)
 - [1919A - Wallet Exchange](https://codeforces.com/contest/1919/problem/A)
 ---
 # LeetCode Problems:
