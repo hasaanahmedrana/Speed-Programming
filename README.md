@@ -115,6 +115,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1919A - Wallet Exchange](https://codeforces.com/contest/1919/problem/A)
 - [1032A- Kitchen Utensils](https://codeforces.com/contest/1032/problem/A)
 - [697A - Pineapple Incident](https://codeforces.com/contest/697/problem/A)
+- [1833A - Musical Puzzle](https://codeforces.com/contest/1833/problem/A)
 ---
 # LeetCode Problems:
 
@@ -122,3 +123,4 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+                                                                                                                                                      
