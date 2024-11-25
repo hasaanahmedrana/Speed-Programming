@@ -117,6 +117,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [697A - Pineapple Incident](https://codeforces.com/contest/697/problem/A)
 - [1833A - Musical Puzzle](https://codeforces.com/contest/1833/problem/A)
 - [1883B - Restore the Weather](https://codeforces.com/contest/1883/problem/B)
+- [101883C - Pig Latin](https://ccodeforces.com/gym/101883/problem/C)
 ---
 # LeetCode Problems:
 
