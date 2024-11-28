@@ -122,6 +122,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [101883C - Pig Latin](https://ccodeforces.com/gym/101883/problem/C)
 - [1878C - Vasilije in Cacak](https://codeforces.com/contest/1878/problem/C)
 - [1882A - Increasing Sequence](https://codeforces.com/contest/1882/problem/A)
+- [658A - Bear and the Reverse Radewoosh](https://codeforces.com/contest/658/problem/A)
 
 ---
 # LeetCode Problems:
