@@ -124,6 +124,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1882A - Increasing Sequence](https://codeforces.com/contest/1882/problem/A)
 - [658A - Bear and the Reverse Radewoosh](https://codeforces.com/contest/658/problem/A)
 - [1878A -  Aleksa and Stack](https://codeforces.com/contest/1878/problem/B)
+- [1878B -  How Duch Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A)
 
 ---
 # LeetCode Problems:
