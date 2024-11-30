@@ -126,6 +126,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1878B -  Aleksa and Stack](https://codeforces.com/contest/1878/problem/B)
 - [1878A -  How Duch Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A)
 - [208A - Dubstep](https://codeforces.com/contest/208/problem/A)
+- [377A -  Puzzles](https://codeforces.com/contest/337/problem/A)
 
 ---
 # LeetCode Problems:
