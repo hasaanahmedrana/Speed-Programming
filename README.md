@@ -128,6 +128,8 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [208A - Dubstep](https://codeforces.com/contest/208/problem/A)
 - [377A -  Puzzles](https://codeforces.com/contest/337/problem/A)
 - [1111A - Superhero Transformation](https://codeforces.com/contest/1111/problem/A)
+- [160B - Unlucky Ticket](https://codeforces.com/contest/160/problem/B)
+
 ---
 # LeetCode Problems:
 
