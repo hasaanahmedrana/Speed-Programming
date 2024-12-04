@@ -135,6 +135,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1225A - Forgetting Things](https://codeforces.com/contest/1225/problem/A)
 - [1250F -  Data Center](https://codeforces.com/contest/1250/problem/F)
 - [1343A - Candies](https://codeforces.com/contest/1343/problem/A)
+- [1490B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B)
 ---
 # LeetCode Problems:
 
