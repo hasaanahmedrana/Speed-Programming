@@ -20,12 +20,10 @@ class Solution(object):
                 s_dic[s[i]] = 1 + s_dic.get(s[i], 0)
             if n == p_len:
                 if s[popp] in p:
-                    s_dic[s[popp]] = s_dic.get(s[popp],0) - 1
+                    s_dic[s[popp]] = s_dic.get(s[popp], 0) - 1
                 popp += 1
                 n -= 1
             if s_dic == p_dic:
                 idx += [i + 1- len(p)]
-                print()
-
             n += 1
         return idx

@@ -130,6 +130,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1111A - Superhero Transformation](https://codeforces.com/contest/1111/problem/A)
 - [160B - Unlucky Ticket](https://codeforces.com/contest/160/problem/B)
 - [131A - cAPS lOCK](https://codeforces.com/contest/131/problem/A)
+- [1358B - Maria Breaks the Self-isolation](https://codeforces.com/contest/1358/problem/B)
 ---
 # LeetCode Problems:
 
