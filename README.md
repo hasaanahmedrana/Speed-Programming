@@ -132,6 +132,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [131A - cAPS lOCK](https://codeforces.com/contest/131/problem/A)
 - [1358B - Maria Breaks the Self-isolation](https://codeforces.com/contest/1358/problem/B)
 - [466A - Cheap Travel](https://codeforces.com/contest/466/problem/A)
+- [1225A - Forgetting Things](https://codeforces.com/contest/1225/problem/A)
 ---
 # LeetCode Problems:
 
