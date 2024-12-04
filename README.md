@@ -137,7 +137,8 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1343A - Candies](https://codeforces.com/contest/1343/problem/A)
 - [1490B - Balanced Remainders](https://codeforces.com/contest/1490/problem/B)
 - [1760A - Medium Number](https://codeforces.com/contest/1760/problem/A)
-- [1760B -  B.Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B)s
+- [1760B -  B.Atilla's Favorite Problem](https://codeforces.com/contest/1760/problem/B)
+- [1856A - Tales of a Sort](https://codeforces.com/contest/1856/problem/A)
 ---
 # LeetCode Problems:
 
