@@ -151,6 +151,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
                                                                                                                                                       
