@@ -141,7 +141,8 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1856A - Tales of a Sort](https://codeforces.com/contest/1856/problem/A)
 - [1856B - Good Arrays](https://codeforces.com/contest/1856/problem/B)
 - [1426B - Symmetric Matrix](https://codeforces.com/contest/1426/problem/B)
-- [1873B - Good Kid ](https://codeforces.com/contest/1873/problem/B)
+- [1873A - Short Sort](https://codeforces.com/contest/1873/problem/A)
+- [1873B - Good Kid](https://codeforces.com/contest/1873/problem/B)
 - [1873C - Target Practices](https://codeforces.com/contest/1873/problem/C)
 - [1873D - 1D Eraser](https://codeforces.com/contest/1873/problem/D)
 ---
