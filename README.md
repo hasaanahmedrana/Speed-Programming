@@ -145,6 +145,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1873B - Good Kid](https://codeforces.com/contest/1873/problem/B)
 - [1873C - Target Practices](https://codeforces.com/contest/1873/problem/C)
 - [1873D - 1D Eraser](https://codeforces.com/contest/1873/problem/D)
+- [1138A - Sushi for Two](https://codeforces.com/contest/1138/problem/A)
 ---
 # LeetCode Problems:
 
