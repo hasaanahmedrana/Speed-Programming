@@ -149,7 +149,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1725B - Basketball Together](https://codeforces.com/contest/1725/problem/B)
 - [984B - Game](https://codeforces.com/contest/984/problem/A)
 - [118B - Present from Lena](https://codeforces.com/contest/118/problem/B)
-
+- [118A - String Task](https://codeforces.com/contest/118/problem/A)
 ---
 # LeetCode Problems:
 
