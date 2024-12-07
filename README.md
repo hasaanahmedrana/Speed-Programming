@@ -147,6 +147,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1873D - 1D Eraser](https://codeforces.com/contest/1873/problem/D)
 - [1138A - Sushi for Two](https://codeforces.com/contest/1138/problem/A)
 - [1725B - Basketball Together](https://codeforces.com/contest/1725/problem/B)
+- [984B - Game](https://codeforces.com/contest/984/problem/A)
 ---
 # LeetCode Problems:
 
