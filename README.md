@@ -151,6 +151,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [118B - Present from Lena](https://codeforces.com/contest/118/problem/B)
 - [118A - String Task](https://codeforces.com/contest/118/problem/A)
 - [1163A - Eating Soup](https://codeforces.com/contest/1163/problem/A)
+- [2A - Winner](https://codeforces.com/contest/2/problem/A)
 ---
 # LeetCode Problems:
 
