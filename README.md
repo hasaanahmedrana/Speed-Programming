@@ -153,6 +153,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1163A - Eating Soup](https://codeforces.com/contest/1163/problem/A)
 - [2A - Winner](https://codeforces.com/contest/2/problem/A)
 - [313A - Ilya And Bank Account](https://codeforces.com/contest/313/problem/A)
+- [554A - Kyoya and Photobooks](https://codeforces.com/contest/554/problem/A)S
 ---
 # LeetCode Problems:
 
