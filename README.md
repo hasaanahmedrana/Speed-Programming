@@ -160,6 +160,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1741A - Compare T-shirt Sizes](https://codeforces.com/contest/1741/problem/A)
 - [1612B - Special Permutation](https://codeforces.com/contest/1612/problem/B)
 - [1248B - Grow The Trees](https://codeforces.com/contest/1248/problem/B)
+- [1107A - Digits Sequence Dividing](https://codeforces.com/contest/1107/problem/A)
 ---
 # LeetCode Problems:
 
