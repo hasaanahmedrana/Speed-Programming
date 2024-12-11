@@ -157,6 +157,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [729A -Interview with Oleg](https://codeforces.com/contest/729/problem/A)
 - [1872B - The Corridor or There and Back Again](https://codeforces.com/contest/1872/problem/B)
 - [1872A - Two Vessels](`https://codeforces.com/contest/1872/problem/A)
+- [1741A - Compare T-shirt Sizes](https://codeforces.com/contest/1741/problem/A)
 ---
 # LeetCode Problems:
 
