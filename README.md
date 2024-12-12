@@ -173,3 +173,6 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+- [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
+
+---
