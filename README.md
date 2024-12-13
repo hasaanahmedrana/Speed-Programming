@@ -167,18 +167,18 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1. Two Sum](https://leetcode.com/problems/two-sum/)
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/)
 - [17. Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)
 - [58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/)
 - [82. Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 - [83. Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) 
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
 - [594. Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/)
-- [164. Maximum Gap](https://leetcode.com/problems/maximum-gap/)
-
 
 ---
