@@ -162,6 +162,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1248B - Grow The Trees](https://codeforces.com/contest/1248/problem/B)
 - [1107A - Digits Sequence Dividing](https://codeforces.com/contest/1107/problem/A)
 - [672B - Different is Good](https://codeforces.com/contest/672/problem/B)
+- [1008A - Romaji](https://codeforces.com/contest/1008/problem/A)
 ---
 # LeetCode Problems:
 
