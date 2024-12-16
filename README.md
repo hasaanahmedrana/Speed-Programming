@@ -182,6 +182,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [438. Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
