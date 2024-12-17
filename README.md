@@ -165,7 +165,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1216B - Shooting](https://codeforces.com/contest/1216/problem/B)
 - [1008A - Romaji](https://codeforces.com/contest/1008/problem/A)
 - [405A - Gravity Flip](https://codeforces.com/contest/405/problem/A)
-- 
+- [1326B - Maximums](https://codeforces.com/contest/1326/problem/B)
 ---
 # LeetCode Problems:
 
