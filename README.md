@@ -168,6 +168,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1326B - Maximums](https://codeforces.com/contest/1326/problem/B)
 - [1862A - Gift Carpet](https://codeforces.com/contest/1862/problem/A)
 - [1866A - Ambitious Kid](https://codeforces.com/contest/1866/problem/A)
+- [1584C - Two Arrays](https://codeforces.com/contest/1584/problem/C)
 ---
 # LeetCode Problems:
 
