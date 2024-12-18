@@ -167,6 +167,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [405A - Gravity Flip](https://codeforces.com/contest/405/problem/A)
 - [1326B - Maximums](https://codeforces.com/contest/1326/problem/B)
 - [1862A - Gift Carpet](https://codeforces.com/contest/1862/problem/A)
+- [1866A - Ambitious Kid](https://codeforces.com/contest/1866/problem/A)
 ---
 # LeetCode Problems:
 
