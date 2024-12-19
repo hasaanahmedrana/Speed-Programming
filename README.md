@@ -170,6 +170,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1866A - Ambitious Kid](https://codeforces.com/contest/1866/problem/A)
 - [1584C - Two Arrays](https://codeforces.com/contest/1584/problem/C)
 - [1150B - Tiling Challenge](https://codeforces.com/contest/1150/problem/B)
+- [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A)
 ---
 # LeetCode Problems:
 
