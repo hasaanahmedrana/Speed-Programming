@@ -173,6 +173,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1777A -Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A)
 - [1791C - Prepend and Append](https://codeforces.com/contest/1791/problem/C)
 - [1762A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A)
+- [1430A - Number of Apartments](https://codeforces.com/contest/1430/problem/A)
 ---
 # LeetCode Problems:
 
