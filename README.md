@@ -197,6 +197,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/)
 - [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [268. Missing Number](https://leetcode.com/problems/missing-number/)
 - [287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
