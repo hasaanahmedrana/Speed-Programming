@@ -175,6 +175,8 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1762A - Divide and Conquer](https://codeforces.com/contest/1762/problem/A)
 - [1430A - Number of Apartments](https://codeforces.com/contest/1430/problem/A)
 - [1809A - Garland](https://codeforces.com/contest/1809/problem/A)
+- [1851A - Escalator Conversations](https://codeforces.com/contest/1851/problem/A)
+- 
 ---
 # LeetCode Problems:
 
