@@ -180,6 +180,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1778A - Flip Flop Sum](https://codeforces.com/contest/1778/problem/A)
 - [69A - Young Physicist](https://codeforces.com/contest/69/problem/A)
 - [58A - Chat room](https://codeforces.com/contest/58/problem/A)
+- [32B - Borze](https://codeforces.com/contest/32/problem/B)
 ---
 # LeetCode Problems:
 
