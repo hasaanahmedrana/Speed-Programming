@@ -177,6 +177,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1809A - Garland](https://codeforces.com/contest/1809/problem/A)
 - [1851A - Escalator Conversations](https://codeforces.com/contest/1851/problem/A)
 - [1851B - Parity Sort](https://codeforces.com/contest/1851/problem/B)
+- [1778A - Flip Flop Sum](https://codeforces.com/contest/1778/problem/A)
 ---
 # LeetCode Problems:
 
