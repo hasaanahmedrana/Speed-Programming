@@ -181,6 +181,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [69A - Young Physicist](https://codeforces.com/contest/69/problem/A)
 - [58A - Chat room](https://codeforces.com/contest/58/problem/A)
 - [32B - Borze](https://codeforces.com/contest/32/problem/B)
+- [230A - Dragons](https://codeforces.com/contest/230/problem/A)
 ---
 # LeetCode Problems:
 
