@@ -186,6 +186,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [807A - Is it Rated?](https://codeforces.com/contest/807/problem/A)
 - [25A - IQ test](https://codeforces.com/contest/25/problem/A)
 - [1849A - Morning Sandwich](https://codeforces.com/contest/1849/problem/A)
+- [479A - Expression](https://codeforces.com/contest/479/problem/A)
 ---
 # LeetCode Problems:
 
