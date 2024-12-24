@@ -183,7 +183,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [32B - Borze](https://codeforces.com/contest/32/problem/B)
 - [230A - Dragons](https://codeforces.com/contest/230/problem/A)
 - [801B - Valued Keys](https://codeforces.com/contest/801/problem/B)
-
+- [807A - Is it Rated?](https://codeforces.com/contest/807/problem/A)
 ---
 # LeetCode Problems:
 
