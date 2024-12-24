@@ -185,6 +185,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [801B - Valued Keys](https://codeforces.com/contest/801/problem/B)
 - [807A - Is it Rated?](https://codeforces.com/contest/807/problem/A)
 - [25A - IQ test](https://codeforces.com/contest/25/problem/A)
+- [1849A - Morning Sandwich](https://codeforces.com/contest/1849/problem/A)
 ---
 # LeetCode Problems:
 
