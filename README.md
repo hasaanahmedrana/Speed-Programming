@@ -190,6 +190,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [556A - Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A)
 - [61A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A)
 - [1650A - Deletion of Two Adjacent Letters](https://codeforces.com/contest/1650/problem/A)
+- [999B - Reversing Encryption](https://codeforces.com/contest/999/problem/B)
 ---
 # LeetCode Problems:
 
