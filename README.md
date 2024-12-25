@@ -188,6 +188,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1849A - Morning Sandwich](https://codeforces.com/contest/1849/problem/A)
 - [479A - Expression](https://codeforces.com/contest/479/problem/A)
 - [556A - Case of the Zeros and Ones](https://codeforces.com/contest/556/problem/A)
+- [61A - Ultra-Fast Mathematician](https://codeforces.com/contest/61/problem/A)
 ---
 # LeetCode Problems:
 
