@@ -196,6 +196,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1468N - Waste Sorting](https://codeforces.com/contest/1468/problem/N)
 - [1080B - Margarite and the best present](https://codeforces.com/contest/1080/problem/B)
 - [1472B - Fair Division](https://codeforces.com/contest/1472/problem/B)
+- [776A - A Serial Killer](https://codeforces.com/contest/776/problem/A)
 ---
 # LeetCode Problems:
 
