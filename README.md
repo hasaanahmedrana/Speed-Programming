@@ -199,7 +199,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1585B - Array Eversion](https://codeforces.com/contest/1585/problem/B)
 - [776A - A Serial Killer](https://codeforces.com/contest/776/problem/A)
 - [734A - Anton and Danik](https://codeforces.com/contest/734/problem/A)
-- []
+- [977A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A)
 ---
 # LeetCode Problems:
 
