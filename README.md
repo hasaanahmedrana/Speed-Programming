@@ -193,6 +193,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [999B - Reversing Encryption](https://codeforces.com/contest/999/problem/B)
 - [133A - HQ9+](https://codeforces.com/contest/133/problem/A)
 - [1703B - ICPC Ballons](https://codeforces.com/contest/1703/problem/B)
+- [1468N - Waste Sorting](https://codeforces.com/contest/1468/problem/N)
 ---
 # LeetCode Problems:
 
