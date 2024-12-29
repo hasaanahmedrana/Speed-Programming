@@ -202,6 +202,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [977A - Wrong Subtraction](https://codeforces.com/contest/977/problem/A)
 - [546A - Soldier and Bananas](https://codeforces.com/contest/546/problem/A)
 - [1857A - Array Coloring](https://codeforces.com/contest/1857/problem/A)
+- [1535A - Fair Playoff](https://codeforces.com/contest/1535/problem/A)
 ---
 # LeetCode Problems:
 
