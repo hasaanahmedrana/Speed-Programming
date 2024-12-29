@@ -204,6 +204,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1857A - Array Coloring](https://codeforces.com/contest/1857/problem/A)
 - [1535A - Fair Playoff](https://codeforces.com/contest/1535/problem/A)
 - [116A - Tram](https://codeforces.com/contest/116/problem/A)
+- [219A - k-String](https://codeforces.com/contest/219/problem/A)
 ---
 # LeetCode Problems:
 
