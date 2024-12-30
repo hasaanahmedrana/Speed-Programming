@@ -206,6 +206,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [116A - Tram](https://codeforces.com/contest/116/problem/A)
 - [219A - k-String](https://codeforces.com/contest/219/problem/A)
 - [1859A - United We Stand](https://codeforces.com/contest/1859/problem/A)
+- [1855A - Dalton The Teacher](https://codeforces.com/contest/1855/problem/A)
 ---
 # LeetCode Problems:
 
