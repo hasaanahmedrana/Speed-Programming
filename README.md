@@ -208,6 +208,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1859A - United We Stand](https://codeforces.com/contest/1859/problem/A)
 - [1855A - Dalton The Teacher](https://codeforces.com/contest/1855/problem/A)
 - [1539B - Love Song](https://codeforces.com/contest/1539/problem/B)
+- [580A - Kefa and First Steps](https://codeforces.com/contest/580/problem/A)
 ---
 # LeetCode Problems:
 
