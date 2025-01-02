@@ -211,6 +211,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [580A - Kefa and First Steps](https://codeforces.com/contest/580/problem/A)
 - [266A - Stones on the Table](https://codeforces.com/contest/266/problem/A)
 - [496A - Minimum Difficulty](https://codeforces.com/contest/496/problem/A)
+- [59A - Word](https://codeforces.com/contest/59/problem/A)
 ---
 # LeetCode Problems:
 
