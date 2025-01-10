@@ -218,6 +218,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [814A - An abandoned sentiment from past](https://codeforces.com/contest/814/problem/A)
 - [1858A - Buttons](https://codeforces.com/contest/1858/problem/A)
 - [158A - Next Round](https://codeforces.com/contest/158/problem/A)
+- [1829C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C)
 ---
 
 # LeetCode Problems:
