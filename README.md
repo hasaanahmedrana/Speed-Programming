@@ -216,6 +216,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [609A - USB Flash Drives](https://codeforces.com/contest/609/problem/A)
 - [1197A - DIY Wooden Ladder](https://codeforces.com/contest/1197/problem/A)
 - [814A - An abandoned sentiment from past](https://codeforces.com/contest/814/problem/A)
+- [1858A - Buttons](https://codeforces.com/contest/1858/problem/A)
 ---
 
 # LeetCode Problems:
