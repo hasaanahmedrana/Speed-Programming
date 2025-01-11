@@ -220,6 +220,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [158A - Next Round](https://codeforces.com/contest/158/problem/A)
 - [1829C - Mr. Perfectly Fine](https://codeforces.com/contest/1829/problem/C)
 - [281A - Word Capitalization](https://codeforces.com/contest/281/problem/A)
+- [160A - Twins](https://codeforces.com/contest/160/problem/A)
 ---
 
 # LeetCode Problems:
