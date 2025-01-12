@@ -222,6 +222,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [281A - Word Capitalization](https://codeforces.com/contest/281/problem/A)
 - [160A - Twins](https://codeforces.com/contest/160/problem/A)
 - [318A - Even Odds](https://codeforces.com/contest/318/problem/A)
+- [1183B - Equalize Prices](https://codeforces.com/contest/1183/problem/B)
 - [991A - Getting an A](https://codeforces.com/contest/991/problem/A)
 ---
 
