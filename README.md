@@ -225,6 +225,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1132B - Discounts](https://codeforces.com/contest/1132/problem/B)
 - [1183B - Equalize Prices](https://codeforces.com/contest/1183/problem/B)
 - [991A - Getting an A](https://codeforces.com/contest/991/problem/A)
+- [1742C - Stripes](https://codeforces.com/contest/1742/problem/C)
 ---
 
 # LeetCode Problems:
