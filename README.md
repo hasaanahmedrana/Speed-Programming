@@ -229,6 +229,7 @@ If you'd like to contribute to this repository, feel free to fork it, make your 
 - [1844A - Subtraction Game](https://codeforces.com/contest/1844/problem/A)
 - [1779B - MKnez's ConstructiveForces Task](https://codeforces.com/contest/1779/problem/B)
 - [1325B - CopyCopyCopyCopyCopy](https://codeforces.com/contest/1325/problem/B)
+- [703A - Mishka and Game](https://codeforces.com/contest/703/problem/A)
 ---
 
 # LeetCode Problems:
